@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MYCustomView">
+        <attr name="active" format="boolean"/>
+        <attr name="inactive" format="boolean"/>
+        <attr name="available" format="boolean"/>
+        <attr name="unavailable" format="boolean"/>
+        <attr name="unknown" format="boolean"/>
+    </declare-styleable>
+
+</resources>
